@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "bst_balanced_bst_from_sorted_array_uplevel", "bst_balanced_bst_from_sorted_array_uplevel.pyproj", "{D57CDF49-46A1-428B-8994-94BB5A5C92AF}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "two_sum_uplevel", "two_sum_uplevel.pyproj", "{AC9755B5-EEB5-4C77-A3DE-23D54EE12B8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D57CDF49-46A1-428B-8994-94BB5A5C92AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D57CDF49-46A1-428B-8994-94BB5A5C92AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9755B5-EEB5-4C77-A3DE-23D54EE12B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9755B5-EEB5-4C77-A3DE-23D54EE12B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CD545429-542C-45BF-A7FA-E19366176B3E}
+		SolutionGuid = {080951DF-8820-4AD7-8C22-0B643A2ED6D6}
 	EndGlobalSection
 EndGlobal

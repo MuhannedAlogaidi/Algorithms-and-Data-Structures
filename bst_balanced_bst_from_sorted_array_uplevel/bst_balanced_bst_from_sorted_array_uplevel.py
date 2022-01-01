@@ -7,8 +7,10 @@ class TreeNode():
         self.left_ptr = left_ptr
         self.right_ptr = right_ptr
 
+
 def arrayToBST(arr):
     return arrayToBSTWorker(arr, 0, len(arr) - 1)
+
 
 def arrayToBSTWorker(array, start, end):
     # edge
@@ -25,7 +27,7 @@ def arrayToBSTWorker(array, start, end):
 
     # create right node/subree
     root.right_ptr = arrayToBSTWorker(array, midpoint + 1, end)
-
+    
     return root
 
 print(arrayToBST([8, 10, 12, 15, 16, 20, 25]))

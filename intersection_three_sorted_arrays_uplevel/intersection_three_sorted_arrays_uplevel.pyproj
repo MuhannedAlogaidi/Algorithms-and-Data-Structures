@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>d57cdf49-46a1-428b-8994-94bb5a5c92af</ProjectGuid>
+    <ProjectGuid>3e581202-06ba-4767-aa79-dd695881c891</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>bst_balanced_bst_from_sorted_array_uplevel.py</StartupFile>
+    <StartupFile>intersection_three_sorted_arrays_uplevel.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>bst_balanced_bst_from_sorted_array_uplevel</Name>
-    <RootNamespace>bst_balanced_bst_from_sorted_array_uplevel</RootNamespace>
+    <Name>intersection_three_sorted_arrays_uplevel</Name>
+    <RootNamespace>intersection_three_sorted_arrays_uplevel</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="bst_balanced_bst_from_sorted_array_uplevel.py" />
+    <Compile Include="intersection_three_sorted_arrays_uplevel.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

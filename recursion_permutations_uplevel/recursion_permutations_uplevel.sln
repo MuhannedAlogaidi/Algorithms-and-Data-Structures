@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "bst_balanced_bst_from_sorted_array_uplevel", "bst_balanced_bst_from_sorted_array_uplevel.pyproj", "{D57CDF49-46A1-428B-8994-94BB5A5C92AF}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "recursion_permutations_uplevel", "recursion_permutations_uplevel.pyproj", "{3E06C158-D734-488F-91F6-0566EBB61D77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D57CDF49-46A1-428B-8994-94BB5A5C92AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D57CDF49-46A1-428B-8994-94BB5A5C92AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E06C158-D734-488F-91F6-0566EBB61D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E06C158-D734-488F-91F6-0566EBB61D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CD545429-542C-45BF-A7FA-E19366176B3E}
+		SolutionGuid = {0CE155D5-C7C6-489B-9AA4-7537B7B57C21}
 	EndGlobalSection
 EndGlobal
