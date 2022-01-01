@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7448063-e03e-44e9-8d4c-4d6a16926038": {
+      "ProjectGuid": "c7448063-e03e-44e9-8d4c-4d6a16926038",
+      "DisplayName": "dynamic_programming_count_ways_n_steps_uplevel",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
